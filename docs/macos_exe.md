@@ -29,3 +29,9 @@
 - Mach-O executable compiled with the Rust compiler, typically including Rust runtime components and LLVM-based optimizations
 - Extension: (no fixed extension)
 - Reference: `자료 확보 필요`
+
+## Universal Binary
+
+- Fat binary format containing multiple Mach-O slices for different CPU architectures (for example, x86_64 and arm64)
+- Extension: (no fixed extension)
+- Reference: `자료 확보 필요`

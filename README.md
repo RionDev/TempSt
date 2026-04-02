@@ -11,6 +11,9 @@
 
 ## 파일 목록
 
+### Executable
+
 - [Windows Executable File](docs/win_exe.md)
-- [Linux Executable File](docs/win_exe.md)
-- [MacOS Executable File](docs/win_exe.md)
+- [Linux Executable File](docs/linux_exe.md)
+- [MacOS Executable File](docs/macos_exe.md)
+- [Android Executable File](docs/android_exe.md)

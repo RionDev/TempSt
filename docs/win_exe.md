@@ -10,7 +10,7 @@
 
 - Managed PE file conforming to the Common Language Infrastructure (CLI), containing .NET metadata and IL code
 - Extension: .exe, .dll
-- Reference: [.Net](https://drive.google.com/drive/folders/1eHDS5BK0Ls10X6nJsIQU4d7FxnhVTf65?usp=drive_link)
+- Reference: [.NET](https://drive.google.com/drive/folders/1eHDS5BK0Ls10X6nJsIQU4d7FxnhVTf65?usp=drive_link)
 
 ## Classic Visual Basic(VB5/VB6)
 
@@ -33,53 +33,59 @@
 ## MS-DOS
 
 - DOS MZ executable format used by MS-DOS programs (16-bit)
-- Extension:
+- Extension: .exe, .com
 - Reference: `자료 확보 필요`
 
 ## NE
 
 - New Executable format used by 16-bit Windows and OS/2 applications
-- Extension:
+- Extension: .exe, .dll
 - Reference: `자료 확보 필요`
 
 ## LE
 
 - Linear Executable format mainly used by 32-bit OS/2 and DOS extenders
-- Extension:
+- Extension: .exe
 - Reference: `자료 확보 필요`
 
 ## LX
 
 - Linear Executable (LX) format used by 32-bit OS/2 applications
-- Extension:
+- Extension: .exe, .dll
 - Reference: `자료 확보 필요`
 
 ## Go
 
 - PE executable compiled with the Go compiler, typically including Go runtime and statically linked components
-- Extension:
+- Extension: .exe, .dll
 - Reference: `자료 확보 필요`
 
 ## Rust
 
 - PE executable compiled with the Rust compiler, typically including Rust runtime components and LLVM-based optimizations
-- Extension:
+- Extension: .exe, .dll
 - Reference: `자료 확보 필요`
 
 ## MinGW
 
 - PE executable compiled with MinGW (GNU toolchain for Windows)
-- Extension:
+- Extension: .exe, .dll
 - Reference: `자료 확보 필요`
 
 ## AutoHotKey
 
 - Script or compiled executable created with AutoHotKey for Windows automation and hotkey handling
-- Extension:
+- Extension: .ahk, .exe
 - Reference: `자료 확보 필요`
 
 ## AutoIt
 
 - Script or compiled executable created with AutoIt for Windows GUI automation and administrative tasks
-- Extension:
+- Extension: .au3, .exe
+- Reference: `자료 확보 필요`
+
+## Lib (COFF Library)
+
+- COFF library format used by linkers for symbol resolution in Windows toolchains
+- Extension: .lib
 - Reference: `자료 확보 필요`
