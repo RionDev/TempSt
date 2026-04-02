@@ -231,3 +231,96 @@
 - CSV
 - TSV
 - MIME HTML(mht)
+
+## Temp에서 옮긴 항목
+
+| Index | Source File Type | Description |
+| ----- | ---------------- | ----------- |
+| 102 | 3ds | 3D Studio |
+| 130 | aac | Advanced Audio Coding |
+| 162 | ace | WinAce archive format |
+| 171 | aem | AppleSingle/AppleDouble Encoded Macintosh |
+| 129 | aiff | Audio Interchange File Forma |
+| 154 | alz | ALZip |
+| 78 | apng | Animated PNG |
+| 168 | asice | Associated Signature Container |
+| 167 | asics | Associated Signature Container |
+| 99 | bfo | V-nas BFO |
+| 65 | bml | Bean Markup Language |
+| 76 | bmp | Windows Bitmap Image |
+| 123 | bw64 | Broadcast wave 64 |
+| 122 | bwf | Broadcast wave format |
+| 156 | bz2 | BZ2 Archive |
+| 160 | cab | Cabinet Archive |
+| 143 | crl | Certificate Revocation List |
+| 89 | cur | Cursor |
+| 103 | dae | Digital Asset Exchange |
+| 110 | dbf | Shapefile |
+| 107 | dcm | Digital Imaging and Communications in Medicine |
+| 105 | drc | Google Draco |
+| 101 | dwf | Design Web Format |
+| 92 | dwg | AutoCAD |
+| 94 | dws | AutoCAD Drawing Standards |
+| 93 | dwt | AutoCAD Drawing Template |
+| 100 | dxf | AutoCAD DXF |
+| 166 | egg | EGG archive format |
+| 87 | emz | Windows Compressed Enhanced Metafile |
+| 169 | es3 | e-dossier |
+| 173 | esz | E-szigno |
+| 147 | har | HTML Archive |
+| 111 | heic | High Efficiency Image File Format |
+| 88 | ico | Icon |
+| 72 | ics | iCalendar |
+| 59 | jhd | Justsystem Hanako |
+| 74 | jpg | JPEG Image |
+| 75 | jpx | JPEG 2000 |
+| 139 | json | JSON |
+| 57 | jtd | Ichitaro Document |
+| 58 | jtdc | Ichitaro Compressed Document |
+| 98 | jwc | JW CAD |
+| 97 | jww | JW CAD |
+| 79 | mng | Multiple Network Graphic |
+| 118 | mov | QuickTime video format |
+| 114 | mpeg | Moving Picture Experts Group |
+| 127 | mts | MPEG-2 Tranmission |
+| 132 | mxf | Material Exchange Format |
+| 82 | nef | Nikon Raw Image |
+| 136 | oft | Microsoft Outlook Template |
+| 131 | opus | Ogg Opus |
+| 96 | p21 | STEP Data Model |
+| 69 | pbix | Microsoft Power BI |
+| 170 | pck | System Center Configuration Manager Package Files |
+| 145 | prn | printing |
+| 137 | pst | Outlook Personal Folder |
+| 70 | rdf | Resource Description Framwork |
+| 125 | rf64 | BWF-compatible multichannel audio file format |
+| 172 | ribc | Research Institute on Building Cost |
+| 106 | rvm | AVEVA Plant Design Management System Model |
+| 95 | sfc | SXF Feature Comment |
+| 108 | shp | Shapefile |
+| 109 | shx | Shapefile |
+| 144 | spf | StorageCraft ShadowProtect |
+| 148 | story | Storyist Document |
+| 68 | tds | Tableau Datasource |
+| 81 | tiff64 | Big Tiff |
+| 163 | tse | TIP Test Selection Engine |
+| 165 | tsec | TIP Test Selection Engine |
+| 164 | tsez | TIP Test Selection Engine |
+| 67 | twb | Tableau workbook |
+| 66 | twbx | Tableau packaged workbook |
+| 138 | txt | Text |
+| 104 | u3d | Universal 3D |
+| 146 | utib | UTIB |
+| 71 | vcs | vCalendar |
+| 133 | vtxt | VTXT |
+| 124 | w64 | Sony wave64 autdio format |
+| 91 | wdp | HD Photo |
+| 120 | webm | Video file format |
+| 161 | wsp | Windows Sharepoint |
+| 141 | xbd | DocuWork Binder |
+| 142 | xct | DocuWork Container |
+| 140 | xdw | DocuWork Image |
+| 61 | xml-doc | Microsoft Word 2003 XML Document |
+| 62 | xml-docx | Microsoft Word XML Document |
+| 64 | xml-pptx | Powerpoint XML Presentation |
+| 63 | xml-xls | Microsoft XML Spreadsheet 2003 |
