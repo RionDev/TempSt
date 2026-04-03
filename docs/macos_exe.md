@@ -6,9 +6,10 @@
 - Extension: (no fixed extension), .dylib
 - Reference: [MachO](https://drive.google.com/drive/folders/11AqhQnLXhGoUeeateKkhw2LWMhWT4JWK?usp=drive_link)
 
-## Mach-O Fat Binary
+## Universal Binary(Mach-O Fat Binary)
 
 - Mach-O container format encapsulating multiple architectures
+- Fat binary format containing multiple Mach-O slices for different CPU architectures (for example, x86_64 and arm64)
 - Extension: (no fixed extension)
 - Reference: [FAT](https://drive.google.com/drive/folders/1X04l9u34ygbLJ4RPNrHarc6v0AVhFTl9?usp=drive_link)
 
@@ -27,11 +28,5 @@
 ## Rust
 
 - Mach-O executable compiled with the Rust compiler, typically including Rust runtime components and LLVM-based optimizations
-- Extension: (no fixed extension)
-- Reference: `자료 확보 필요`
-
-## Universal Binary
-
-- Fat binary format containing multiple Mach-O slices for different CPU architectures (for example, x86_64 and arm64)
 - Extension: (no fixed extension)
 - Reference: `자료 확보 필요`
